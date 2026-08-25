@@ -1,6 +1,6 @@
 # Office Developer AI Tools
 
-This repo holds tools for developers of add-ins and other extensions of Office. Some are non-AI scripts. Others are AI tools, such as extended prompts, skills, agents, and actions that can be used in GitHub Copilot and other AI applications .
+This repo holds tools for developers of add-ins and other extensions of Office. Some are non-AI scripts. Others are AI tools, such as extended prompts, skills, agents, and actions that can be used in GitHub Copilot and other AI applications.
 
 ## Extended Prompts
 
@@ -12,7 +12,7 @@ Each extended prompt file is in a folder that includes a file of instructions fo
 
 | Prompt | Purpose | Required Abilities | Supported By | Not Supported By |
 |--------|---------|-------------------|--------------|-----------------|
-| [First-run Precheck](https://github.com/OfficeDev/Office-Developer-Tools/tree/main/prompts/First-Run-Precheck) | Issues a report about whether an Office Add-in contains a first-run experience as required by Microsoft Marketplace. | <Ul><li>Open a zip file and read the files in it.</li><li>Obtain files from web URLs and read them.</li><li>Write a file and save it to the local computer.</li></ul> | GitHub Copilot chat and CLI | Windows Copilot and Microsoft 365 chat interfaces |
+| [First-run Precheck](https://github.com/OfficeDev/Office-Developer-Tools/tree/main/prompts/First-Run-Precheck) | Issues a report about whether an Office Add-in contains a first-run experience as required by Microsoft Marketplace. | <ul><li>Open a zip file and read the files in it.</li><li>Obtain files from web URLs and read them.</li><li>Write a file and save it to the local computer.</li></ul> | GitHub Copilot chat and CLI | Windows Copilot and Microsoft 365 chat interfaces |
 
 ## Scripts 
 

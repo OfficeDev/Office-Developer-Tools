@@ -67,7 +67,7 @@ If you need help keeping your fork in sync with the original repository, see [Gi
 
 Before you submit your pull request, consider the following guidelines.
 
-* Search [GitHub](https://github.com/OfficeDev/Office-Developer-Tools/pulls) for an open or closed pull request
+* Search [GitHub](https://github.com/OfficeDev/Office-Developer-Tools/pulls) for an open or closed pull request.
   that relates to your submission. You don't want to duplicate effort.
 
 * Make sure you have a link in your local cloned fork to the [OfficeDev/Office-Developer-Tools](https://github.com/OfficeDev/Office-Developer-Tools) repository.
